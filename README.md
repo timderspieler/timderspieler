@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+<div align="center">
+  
+  ![GitHub Languages](https://api.githubtrends.io/user/svg/timderspieler/langs?time_range=one_year&include_private=True&compact=True&theme=dark)
+
+  [![My Skills](https://skillicons.dev/icons?i=java,spring,js,cs,ts,react,vue,mongodb,mysql,unity,git,gradle)](https://skillicons.dev)
+</div>
+
 <!--
 **timderspieler/timderspieler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
